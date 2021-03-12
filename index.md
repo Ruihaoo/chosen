@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+##欢迎来到GitHub Pages
+王锐豪的网页
+您可以使用[GitHub上的编辑器] （https://github.com/Ruihaoo/chosen/edit/gh-pages/index.md）维护和预览Markdown文件中网站的内容。
 
-You can use the [editor on GitHub](https://github.com/Ruihaoo/chosen/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+每当您提交到该存储库时，GitHub Pages都将运行[Jekyll] （https://jekyllrb.com/）从Markdown文件中的内容重建站点中的页面。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+###降价
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown是一种轻巧且易于使用的语法，可用于样式化您的文字。它包括以下约定
 
 ```markdown
 Syntax highlighted code block
